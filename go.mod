@@ -80,4 +80,4 @@ require (
 // workaround https://github.com/google/gvisor/commit/868dfbce4fd59f03145e2bc5ac0b585917c371fa
 replace gvisor.dev/gvisor => gvisor.dev/gvisor v0.0.0-20250429202743-3a608a52255d
 
-replace github.com/exclavenetwork/exclave-core/v5 => github.com/ABOLUOmathh/exclave-core/v5 v5.50.1-0.20261014071429-ffe16fbcc116
+replace github.com/exclavenetwork/exclave-core/v5 => github.com/ABOLUOmathh/exclave-core/v5 v5.50.1-0.20261015135558-07c123494694
